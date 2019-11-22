@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Protocols'/>
+        <page name='Class'/>
+        <page name='Generics'/>
+        <page name='Conditional Conformance'/>
+        <page name='Sequence'/>
+        <page name='AnySequence'/>
+        <page name='Collection'/>
+        <page name='Array'/>
+        <page name='Slices'/>
+        <page name='MemoryManagement'/>
+        <page name='Closures'/>
+    </pages>
+</playground>
