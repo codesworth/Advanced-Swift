@@ -15,5 +15,6 @@
         <page name='MemoryLayout'/>
         <page name='RawPointers'/>
         <page name='Typed Pointers'/>
+        <page name='Result Type'/>
     </pages>
 </playground>
