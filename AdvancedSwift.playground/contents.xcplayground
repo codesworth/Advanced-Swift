@@ -12,5 +12,8 @@
         <page name='Slices'/>
         <page name='MemoryManagement'/>
         <page name='Closures'/>
+        <page name='MemoryLayout'/>
+        <page name='RawPointers'/>
+        <page name='Typed Pointers'/>
     </pages>
 </playground>
